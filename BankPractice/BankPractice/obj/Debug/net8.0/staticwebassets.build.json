@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "uuWdl0SHL7bcffS/JA7UUuwHElkGHsBDkGbJrEu3BP8=",
+  "Source": "BankPractice",
+  "BasePath": "_content/BankPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankPractice\\wwwroot",
+      "Source": "BankPractice",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\BankPractice\\BankPractice\\wwwroot\\",
+      "BasePath": "_content/BankPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\BankPractice\\BankPractice\\wwwroot\\sample.pdf",
+      "SourceId": "BankPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\BankPractice\\BankPractice\\wwwroot\\",
+      "BasePath": "_content/BankPractice",
+      "RelativePath": "sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample.pdf"
+    }
+  ]
+}
