@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Csqg/5sfRD9/NlW4WLC2wntAeckFP4hyvZewT9ZawEI=",
+  "Source": "ECommerceAssignment",
+  "BasePath": "_content/ECommerceAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceAssignment\\wwwroot",
+      "Source": "ECommerceAssignment",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\ECommerceAssignment\\ECommerceAssignment\\wwwroot\\",
+      "BasePath": "_content/ECommerceAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
