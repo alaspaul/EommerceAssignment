@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Vl7ZP1MdZ3g6Doj56vFALyztJa339WZW4s6nX/TyEkM=",
+  "Source": "WeatherAssignment",
+  "BasePath": "_content/WeatherAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAssignment\\wwwroot",
+      "Source": "WeatherAssignment",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithPartialView\\WeatherAssignment\\wwwroot\\",
+      "BasePath": "_content/WeatherAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithPartialView\\WeatherAssignment\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\WeatherAssignmentwithPartialView\\WeatherAssignment\\wwwroot\\",
+      "BasePath": "_content/WeatherAssignment",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

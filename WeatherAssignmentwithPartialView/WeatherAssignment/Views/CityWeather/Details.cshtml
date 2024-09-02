@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+@{
+    CityWeather cityWeather = ViewBag.CityWeather;
+}
+
+@model CityWeather;
+
+    <div class="page-content">
+        @if (Model != null)
+        {
+            <partial name="_CityDetailsPartialView" model="Model"></partial>
+        }
+        else
+        {
+            <h3>City Code is not valid.</h3>
+        }
+
+    </div>
+

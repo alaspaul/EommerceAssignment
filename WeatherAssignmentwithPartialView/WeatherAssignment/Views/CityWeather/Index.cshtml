@@ -1,0 +1,13 @@
+﻿
+@model List<CityWeather>;
+
+
+        <div class="margin-top-200 margin-left">
+            <div class="flex">
+                @foreach (CityWeather city in Model)
+                {
+                    <partial name="_CityPartialView" model="city"></partial>
+                }
+
+            </div>
+        </div>
