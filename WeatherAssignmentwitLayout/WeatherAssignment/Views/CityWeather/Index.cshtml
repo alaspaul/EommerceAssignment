@@ -1,0 +1,41 @@
+﻿
+@model List<CityWeather>;
+@{
+    string backgroundColor(int fahrenheit)
+    {
+        if (fahrenheit < 44)
+        {
+            return "blue-back";
+        }
+        else if (fahrenheit > 44 && fahrenheit < 74)
+        {
+            return "green-back";
+        }
+        else
+        {
+            return "orange-back";
+        }
+    }
+}
+
+        <div class="margin-top-200 margin-left">
+            <div class="flex">
+                @foreach (CityWeather city in Model)
+                {
+                <div class="box cursor-pointer w-30 @backgroundColor(city.TemperatureFahrenheit)">
+                        <div class="flex-borderless">
+                            <div class="w-50">
+                                <h2>@city.CityName</h2>
+                                <h4 class="text-dark-grey">@city.DateAndTime.ToString("hh:mm tt")</h4>
+                                <a href="~/Details/@city.CityUniqueCode" class="margin-top">Details</a>
+                            </div>
+                            <div class="w-50 border-left">
+                                <h1 class="margin-left">@city.TemperatureFahrenheit <sup class="text-grey">&#8457</sup></h1>
+                            </div>
+                        </div>
+
+                    </div>
+                }
+
+            </div>
+        </div>
