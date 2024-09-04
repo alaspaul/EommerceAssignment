@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "uZHeKOrDNKmN3P/nXy19yQHr2mNcs6QlMNty+5Nlqwc=",
+  "Source": "SocialMediaAssignment",
+  "BasePath": "_content/SocialMediaAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialMediaAssignment\\wwwroot",
+      "Source": "SocialMediaAssignment",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\wwwroot\\",
+      "BasePath": "_content/SocialMediaAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\wwwroot\\StyleSheet.css",
+      "SourceId": "SocialMediaAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\paul\\source\\repos\\SocialMediaAssignment\\SocialMediaAssignment\\wwwroot\\",
+      "BasePath": "_content/SocialMediaAssignment",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
