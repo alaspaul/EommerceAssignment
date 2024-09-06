@@ -1,0 +1,50 @@
+﻿@model StocksApp.Models.StockTrade
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Home</h1>
+
+<form method="post">
+
+<div class="box trading-panel">
+    <div class="flex trading-panel-flex">
+        <div id="stock-price-panel">
+            <div class="stock">
+                <div class="flex">
+                    <h1 class="stock-title">@Model.StockName</h1>
+                    <h2 class="stock-title">(@Model.StockSymbol)</h2>
+                </div>
+                <table>
+                    <tbody>
+                        <tr>
+                            <h2>
+                            <td>Price:</td>
+                            <th>
+                                <small>$</small>
+                                <span>
+                                    @Model.Price
+                                </span>
+                            </th>
+                            </h2>
+                        </tr>
+
+                       
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <input type="hidden" name="StockSymbol" id="StockSymbol" value="@Model.StockSymbol" />
+    <input type="hidden" id="FinnhubToken" value="@ViewBag.FinnhubToken" />
+
+</form>
+
+
+@section Scripts {
+    <script src="~/Scripts/FinnhubScript.js">
+    </script>
+}
