@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\servicecontracts\\dto\\sellorderdto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderdto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\servicecontracts\\dto\\buyorderdto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderdto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\service\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\servicecontracts\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\service\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\servicecontracts\\istocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\istocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocktest\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\servicecontracts\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\servicecontracts\\dto\\customvalidation\\maximumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\customvalidation\\maximumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocktest\\stocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\stocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\views\\shared\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\stocksappassignmentwithtaghelpers\\stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvxoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:00:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:01:39.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:09:03.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Service\\StocksService.cs",
+              "RelativeDocumentMoniker": "Service\\StocksService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Service\\StocksService.cs",
+              "RelativeToolTip": "Service\\StocksService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:56:41.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T12:49:31.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T13:49:27.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T11:23:54.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:16:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\Orders.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T08:59:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:59:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:56:13.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:13:22.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StocksApp\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "StocksApp\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAGsCAAAAAAAAAAAAwIACAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-04T11:21:55.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Service\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:29:29.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StocksTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StockTest\\StocksTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\StocksTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StockTest\\StocksTest.cs",
+              "RelativeToolTip": "StockTest\\StocksTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:55:37.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "StocksApp\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\TradingOptions.cs",
+              "RelativeToolTip": "StocksApp\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:14:52.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T11:16:10.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Program.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Program.cs",
+              "RelativeToolTip": "StocksApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:11:23.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStocksService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\IStocksService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IStocksService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\IStocksService.cs",
+              "RelativeToolTip": "ServiceContracts\\IStocksService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:56:30.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MaximumYearValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:04:34.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:08:18.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StockTest.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StockTest\\StockTest.csproj",
+              "RelativeDocumentMoniker": "StockTest\\StockTest.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StockTest\\StockTest.csproj",
+              "RelativeToolTip": "StockTest\\StockTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-06T12:19:29.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Services\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "StocksApp\\Services\\FinnhubService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:28:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FinnhubScript.js",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Shared\\Scripts\\FinnhubScript.js",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\Scripts\\FinnhubScript.js",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Views\\Shared\\Scripts\\FinnhubScript.js",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\Scripts\\FinnhubScript.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T13:47:07.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "StocksApp\\ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "StocksApp\\ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:54:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Models\\StockTrade.cs",
+              "RelativeToolTip": "StocksApp\\Models\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:47:30.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\Models\\Stock.cs",
+              "RelativeToolTip": "StocksApp\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:17:08.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\StocksAppAssignmentWithTagHelpers\\StocksApp\\appsettings.json",
+              "RelativeToolTip": "StocksApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T11:12:05.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "ToolTip": "C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T12:09:40.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
