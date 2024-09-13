@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\paul\\source\\github\\UdemyC-Assignemnt\\StocksAppAssignmentWithMOQ\\StocksApp\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\github\\UdemyC-Assignemnt\\StocksAppAssignmentWithMOQ\\StocksApp\\wwwroot\\Scripts\\ChartScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\ChartScript.js"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\github\\UdemyC-Assignemnt\\StocksAppAssignmentWithMOQ\\StocksApp\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\github\\UdemyC-Assignemnt\\StocksAppAssignmentWithMOQ\\StocksApp\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StocksApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StocksApp.props",
+      "PackagePath": "build\\StocksApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StocksApp.props",
+      "PackagePath": "buildMultiTargeting\\StocksApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StocksApp.props",
+      "PackagePath": "buildTransitive\\StocksApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
