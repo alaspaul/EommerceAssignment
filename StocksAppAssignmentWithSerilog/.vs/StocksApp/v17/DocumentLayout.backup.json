@@ -1,0 +1,822 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocktest\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\service\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\stocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocktest\\tradecontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\tradecontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\service\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocktest\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\entities\\tradedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\tradedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\service\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\dto\\buyorderdto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderdto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\dto\\customvalidation\\maximumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\customvalidation\\maximumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\repositorycontracts\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\trade\\orderspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\orderspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\dto\\sellorderdto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderdto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\servicecontracts\\istocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\istocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\stocksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\stocksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\stocksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\repositorycontracts\\ibuyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ibuyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\repositorycontracts\\isellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\isellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\repositories\\buyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\buyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithserilog\\repositories\\sellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\sellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\appsettings.json",
+              "RelativeToolTip": "StocksApp\\appsettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:52:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Program.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Program.cs",
+              "RelativeToolTip": "StocksApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:51:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\IFinnhubService.cs",
+              "RelativeToolTip": "ServiceContracts\\IFinnhubService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:45:58.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StocksService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\StocksService.cs",
+              "RelativeDocumentMoniker": "Service\\StocksService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\StocksService.cs",
+              "RelativeToolTip": "Service\\StocksService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:47.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StocksTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\StocksTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\StocksTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\StocksTest.cs",
+              "RelativeToolTip": "StockTest\\StocksTest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TradeControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\TradeControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\TradeControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\TradeControllerIntegrationTest.cs",
+              "RelativeToolTip": "StockTest\\TradeControllerIntegrationTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:04:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "Repositories\\FinnhubRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:41:20.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAWwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:23:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TradeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities\\TradeDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\TradeDbContext.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities\\TradeDbContext.cs",
+              "RelativeToolTip": "Entities\\TradeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:25:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "Service\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\FinnhubService.cs",
+              "RelativeToolTip": "Service\\FinnhubService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:44:57.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:20:00.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "StockTest\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "StockTest\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:04:36.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:20:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StocksControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\StocksControllerTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\StocksControllerTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StockTest\\StocksControllerTest.cs",
+              "RelativeToolTip": "StockTest\\StocksControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:03:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:01:09.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MaximumYearValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:43.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Service\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:14.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:50:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SelectedStockViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeDocumentMoniker": "StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeToolTip": "StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:27:25.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:24:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "StocksApp\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\TradingOptions.cs",
+              "RelativeToolTip": "StocksApp\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:04:06.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "ToolTip": "C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:59:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts\\IFinnhubRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IFinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts\\IFinnhubRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IFinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:48:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrdersPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:26:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:24:34.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\Orders.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:24:48.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:30:14.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:59:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Explore.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:30:52.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:23:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:23:00.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:20:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:17:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Models\\Stock.cs",
+              "RelativeToolTip": "StocksApp\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:04:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:11:58.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Models\\Orders.cs",
+              "RelativeToolTip": "StocksApp\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:05:49.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Models\\StockTrade.cs",
+              "RelativeToolTip": "StocksApp\\Models\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:05:35.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IStocksService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\IStocksService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IStocksService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts\\IStocksService.cs",
+              "RelativeToolTip": "ServiceContracts\\IStocksService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StocksApp.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\StocksApp.csproj",
+              "RelativeDocumentMoniker": "StocksApp\\StocksApp.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\StocksApp.csproj",
+              "RelativeToolTip": "StocksApp\\StocksApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T12:56:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StocksApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:58:43.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp\\appsettings.Development.json",
+              "RelativeToolTip": "StocksApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:56:33.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T11:46:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IBuyOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts\\IBuyOrderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IBuyOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts\\IBuyOrderRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IBuyOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:37:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ISellOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts\\ISellOrderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\ISellOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts\\ISellOrderRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\ISellOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:37:32.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BuyOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories\\BuyOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BuyOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories\\BuyOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\BuyOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:42:51.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SellOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories\\SellOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SellOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories\\SellOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\SellOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:42:26.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

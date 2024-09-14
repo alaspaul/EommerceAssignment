@@ -1,0 +1,8 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\RepositoryContracts",
+  "Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\Service",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\ServiceContracts",
+  "StocksApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSerilog\\StocksApp"
+}
