@@ -1,0 +1,49 @@
+﻿@model StocksApp.Models.Stock
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Home</h1>
+
+<div class="box trading-panel">
+    <div class="flex trading-panel-flex">
+        <div class="flex-1">
+            <div id="stock-price-panel">
+                <div class="stock">
+                    <h1 class="stock-title">@Model.StockSymbol</h1>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>current:</td>
+                                <th>
+
+                                </th>
+                            </tr>
+
+                            <tr>
+                                <td>highest:</td>
+                                <th>
+  
+                                </th>
+                            </tr>
+
+                            <tr>
+                                <td>lowest:</td>
+                                <th>
+
+                                </th>
+                            </tr>
+
+                            <tr>
+                                <td>Open:</td>
+                                <th>
+
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        
+    </div>
