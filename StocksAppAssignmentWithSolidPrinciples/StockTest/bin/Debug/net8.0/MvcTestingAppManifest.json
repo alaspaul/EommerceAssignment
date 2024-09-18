@@ -1,0 +1,8 @@
+{
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts",
+  "Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts",
+  "StocksApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp"
+}

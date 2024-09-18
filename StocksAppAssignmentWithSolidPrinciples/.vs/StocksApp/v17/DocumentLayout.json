@@ -1,0 +1,1025 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocktest\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\viewcomponents\\selectedstockviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\stocksservice\\buyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\stocksservice\\buyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocktest\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\stocksservicecontracts\\ibuyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\stocksservicecontracts\\ibuyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\stocksservicecontracts\\isellorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\stocksservicecontracts\\isellorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\stocksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\stocksapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\stocksservice\\sellorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\stocksservice\\sellorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\finnhubservice\\finnhubservicestockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\finnhubservice\\finnhubservicestockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\finnhubservicecontracts\\ifinnhubservicestockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\finnhubservicecontracts\\ifinnhubservicestockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\finnhubservicecontracts\\ifinnhubservicestockpriceqouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\finnhubservicecontracts\\ifinnhubservicestockpriceqouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\finnhubservice\\finnhubservicestockpriceqouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\finnhubservice\\finnhubservicestockpriceqouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\finnhubservice\\finnhubservicesearchstocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\finnhubservice\\finnhubservicesearchstocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\finnhubservice\\finnhubservicecompanyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\finnhubservice\\finnhubservicecompanyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\finnhubservicecontracts\\ifinnhubservicecompanyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\finnhubservicecontracts\\ifinnhubservicecompanyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\finnhubservicecontracts\\ifinnhubservicesearchstocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\finnhubservicecontracts\\ifinnhubservicesearchstocksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\filters\\buyorderactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\filters\\buyorderactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\filters\\sellorderactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\filters\\sellorderactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\stocks\\explore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\logs\\log2024091419.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\logs\\log2024091419.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocktest\\tradecontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\tradecontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7EBD4E9-AC5F-436D-ABA0-5803ED6E1B51}|StockTest\\StockTest.csproj|solutionrelative:stocktest\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\entities\\tradedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\tradedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\dto\\buyorderdto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderdto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\dto\\customvalidation\\maximumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\customvalidation\\maximumyearvalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D06C44-C333-4703-8AF2-0839AA32F948}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\repositorycontracts\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ifinnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\trade\\orderspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\trade\\orderspdf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\shared\\components\\selectedstock\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\dto\\sellorderdto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderdto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70899C41-6285-48C1-B194-C97415B4C238}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\iorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\models\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA832E90-BA3E-485B-B3B5-0F9C37ADCF33}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\stocksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE60B82-F3A8-4B78-B4CA-303D052E28D8}|StocksApp\\StocksApp.csproj|solutionrelative:stocksapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\repositorycontracts\\ibuyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\ibuyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\repositorycontracts\\isellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7404B5-0CB3-4EFD-AA63-74CB52B5648E}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\isellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\repositories\\buyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\buyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|c:\\users\\paul\\source\\github\\stocksappassignmentwithsolidprinciples\\repositories\\sellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE11C116-A8A3-4625-9211-19EDDA69ACD2}|Repositories\\Repositories.csproj|solutionrelative:repositories\\sellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:59:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectedStockViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeDocumentMoniker": "StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "RelativeToolTip": "StocksApp\\ViewComponents\\SelectedStockViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:27:25.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StocksControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\StocksControllerTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\StocksControllerTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\StocksControllerTest.cs",
+              "RelativeToolTip": "StockTest\\StocksControllerTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:03:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StocksTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\StocksTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\StocksTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\StocksTest.cs",
+              "RelativeToolTip": "StockTest\\StocksTest.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwM8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBuyOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\StocksServiceContracts\\IBuyOrderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\StocksServiceContracts\\IBuyOrderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\StocksServiceContracts\\IBuyOrderService.cs",
+              "RelativeToolTip": "ServiceContracts\\StocksServiceContracts\\IBuyOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:59.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISellOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\StocksServiceContracts\\ISellOrderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\StocksServiceContracts\\ISellOrderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\StocksServiceContracts\\ISellOrderService.cs",
+              "RelativeToolTip": "ServiceContracts\\StocksServiceContracts\\ISellOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:52:08.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StocksApp.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\StocksApp.csproj",
+              "RelativeDocumentMoniker": "StocksApp\\StocksApp.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\StocksApp.csproj",
+              "RelativeToolTip": "StocksApp\\StocksApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T12:56:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\StocksService\\SellOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\StocksService\\SellOrderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\StocksService\\SellOrderService.cs",
+              "RelativeToolTip": "Service\\StocksService\\SellOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:00:04.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:23:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Program.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Program.cs",
+              "RelativeToolTip": "StocksApp\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:51:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuyOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\StocksService\\BuyOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\StocksService\\BuyOrderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\StocksService\\BuyOrderService.cs",
+              "RelativeToolTip": "Service\\StocksService\\BuyOrderService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:13:47.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinnhubServiceStockService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceStockService.cs",
+              "RelativeDocumentMoniker": "Service\\FinnhubService\\FinnhubServiceStockService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceStockService.cs",
+              "RelativeToolTip": "Service\\FinnhubService\\FinnhubServiceStockService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:55:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFinnhubServiceStockService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockService.cs",
+              "RelativeToolTip": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:50:54.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFinnhubServiceStockPriceQouteService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockPriceQouteService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockPriceQouteService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockPriceQouteService.cs",
+              "RelativeToolTip": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceStockPriceQouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:50:23.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FinnhubServiceStockPriceQouteService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceStockPriceQouteService.cs",
+              "RelativeDocumentMoniker": "Service\\FinnhubService\\FinnhubServiceStockPriceQouteService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceStockPriceQouteService.cs",
+              "RelativeToolTip": "Service\\FinnhubService\\FinnhubServiceStockPriceQouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:55:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FinnhubServiceSearchStocksService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceSearchStocksService.cs",
+              "RelativeDocumentMoniker": "Service\\FinnhubService\\FinnhubServiceSearchStocksService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceSearchStocksService.cs",
+              "RelativeToolTip": "Service\\FinnhubService\\FinnhubServiceSearchStocksService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:55:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FinnhubServiceCompanyProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "RelativeDocumentMoniker": "Service\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "RelativeToolTip": "Service\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:44:57.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFinnhubServiceCompanyProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceCompanyProfileService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceCompanyProfileService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceCompanyProfileService.cs",
+              "RelativeToolTip": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceCompanyProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:45:58.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFinnhubServiceSearchStocksService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceSearchStocksService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceSearchStocksService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceSearchStocksService.cs",
+              "RelativeToolTip": "ServiceContracts\\FinnhubServiceContracts\\IFinnhubServiceSearchStocksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:49:46.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StocksApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:58:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\appsettings.json",
+              "RelativeToolTip": "StocksApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:52:03.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StocksApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:08:46.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T07:09:13.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Middleware\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Middleware\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Middleware\\CustomMiddleware.cs",
+              "RelativeToolTip": "StocksApp\\Middleware\\CustomMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:05:43.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuyOrderActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Filters\\BuyOrderActionFilter.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Filters\\BuyOrderActionFilter.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Filters\\BuyOrderActionFilter.cs",
+              "RelativeToolTip": "StocksApp\\Filters\\BuyOrderActionFilter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T08:35:00.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SellOrderActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Filters\\SellOrderActionFilter.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Filters\\SellOrderActionFilter.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Filters\\SellOrderActionFilter.cs",
+              "RelativeToolTip": "StocksApp\\Filters\\SellOrderActionFilter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:00:58.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:24:34.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Explore.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Stocks\\Explore.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:30:52.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:17:50.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:20:00.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "Service\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:14.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "log2024091419.txt",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Logs\\log2024091419.txt",
+              "RelativeDocumentMoniker": "StocksApp\\Logs\\log2024091419.txt",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Logs\\log2024091419.txt",
+              "RelativeToolTip": "StocksApp\\Logs\\log2024091419.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-14T11:08:07.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TradeControllerIntegrationTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\TradeControllerIntegrationTest.cs",
+              "RelativeDocumentMoniker": "StockTest\\TradeControllerIntegrationTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\TradeControllerIntegrationTest.cs",
+              "RelativeToolTip": "StockTest\\TradeControllerIntegrationTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:04:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "Repositories\\FinnhubRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:41:20.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TradeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities\\TradeDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\TradeDbContext.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities\\TradeDbContext.cs",
+              "RelativeToolTip": "Entities\\TradeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:25:32.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "StockTest\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StockTest\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "StockTest\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:04:36.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderDTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:20:02.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:01:09.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MaximumYearValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\CustomValidation\\MaximumYearValidationAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:43.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:52:32.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:50:31.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:24:06.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "StocksApp\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\TradingOptions.cs",
+              "RelativeToolTip": "StocksApp\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:04:06.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "ToolTip": "C:\\Users\\paul\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\22ee0a90-b992-4f2b-966f-383e4f08569b\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:59:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IFinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts\\IFinnhubRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IFinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts\\IFinnhubRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IFinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:48:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrdersPDF.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\OrdersPDF.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:26:35.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Trade\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Trade\\Orders.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Trade\\Orders.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:24:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\Shared\\Components\\SelectedStock\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:30:14.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:23:01.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StocksApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StocksApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:23:00.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderDTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:20:52.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Models\\Stock.cs",
+              "RelativeToolTip": "StocksApp\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:04:37.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\ServiceContracts\\DTO\\IOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\IOrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:11:58.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Models\\Orders.cs",
+              "RelativeToolTip": "StocksApp\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:05:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Models\\StockTrade.cs",
+              "RelativeDocumentMoniker": "StocksApp\\Models\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\Models\\StockTrade.cs",
+              "RelativeToolTip": "StocksApp\\Models\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:05:35.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StocksApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\StocksApp\\appsettings.Development.json",
+              "RelativeToolTip": "StocksApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T12:56:33.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T11:46:27.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IBuyOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts\\IBuyOrderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IBuyOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts\\IBuyOrderRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IBuyOrderRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:37:19.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ISellOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts\\ISellOrderRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\ISellOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\RepositoryContracts\\ISellOrderRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\ISellOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:37:32.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BuyOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories\\BuyOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BuyOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories\\BuyOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\BuyOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:42:51.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SellOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories\\SellOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SellOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\github\\StocksAppAssignmentWithSolidPrinciples\\Repositories\\SellOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\SellOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T11:42:26.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
