@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\wwwroot\\Scripts\\ChartScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\ChartScript.js"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StocksAppCleanArchitecture.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StocksAppCleanArchitecture.UI.props",
+      "PackagePath": "build\\StocksAppCleanArchitecture.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StocksAppCleanArchitecture.UI.props",
+      "PackagePath": "buildMultiTargeting\\StocksAppCleanArchitecture.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StocksAppCleanArchitecture.UI.props",
+      "PackagePath": "buildTransitive\\StocksAppCleanArchitecture.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

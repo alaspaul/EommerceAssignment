@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFF8DC-4611-442B-8627-22218972E69D}|StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.integrationtests\\stocksappcleanarchitecture.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8AFF8DC-4611-442B-8627-22218972E69D}|StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj|solutionrelative:stocksappcleanarchitecture.integrationtests\\stocksappcleanarchitecture.integrationtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.ui\\stocksappcleanarchitecture.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|solutionrelative:stocksappcleanarchitecture.ui\\stocksappcleanarchitecture.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AFF8DC-4611-442B-8627-22218972E69D}|StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.integrationtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AFF8DC-4611-442B-8627-22218972E69D}|StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj|solutionrelative:stocksappcleanarchitecture.integrationtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2942077C-66B3-4F70-A175-0BE7D88920AA}|StocksAppCleanArchitecture.ControllerTests\\StocksAppCleanArchitecture.ControllerTests.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.controllertests\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2942077C-66B3-4F70-A175-0BE7D88920AA}|StocksAppCleanArchitecture.ControllerTests\\StocksAppCleanArchitecture.ControllerTests.csproj|solutionrelative:stocksappcleanarchitecture.controllertests\\stockscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73EE79D-D58D-4290-AA30-52784C6B5F1F}|StocksAppCleanArchitecure.ServiceTests\\StocksAppCleanArchitecture.ServiceTests.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecure.servicetests\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73EE79D-D58D-4290-AA30-52784C6B5F1F}|StocksAppCleanArchitecure.ServiceTests\\StocksAppCleanArchitecture.ServiceTests.csproj|solutionrelative:stocksappcleanarchitecure.servicetests\\stockstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|solutionrelative:stocksappcleanarchitecture.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.core\\services\\finnhubservice\\finnhubservicecompanyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|solutionrelative:stocksappcleanarchitecture.core\\services\\finnhubservice\\finnhubservicecompanyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.ui\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|solutionrelative:stocksappcleanarchitecture.ui\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.ui\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D553CE-53C9-4191-9EE5-177F088A18F3}|StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj|solutionrelative:stocksappcleanarchitecture.ui\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46D1C1D-08AF-4FE3-B2AC-E982EFECDB51}|StocksAppCleanArchitecture.Infrastructure\\StocksAppCleanArchitecture.Infrastructure.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.infrastructure\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46D1C1D-08AF-4FE3-B2AC-E982EFECDB51}|StocksAppCleanArchitecture.Infrastructure\\StocksAppCleanArchitecture.Infrastructure.csproj|solutionrelative:stocksappcleanarchitecture.infrastructure\\repositories\\finnhubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46D1C1D-08AF-4FE3-B2AC-E982EFECDB51}|StocksAppCleanArchitecture.Infrastructure\\StocksAppCleanArchitecture.Infrastructure.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.infrastructure\\repositories\\sellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46D1C1D-08AF-4FE3-B2AC-E982EFECDB51}|StocksAppCleanArchitecture.Infrastructure\\StocksAppCleanArchitecture.Infrastructure.csproj|solutionrelative:stocksappcleanarchitecture.infrastructure\\repositories\\sellorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B46D1C1D-08AF-4FE3-B2AC-E982EFECDB51}|StocksAppCleanArchitecture.Infrastructure\\StocksAppCleanArchitecture.Infrastructure.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.infrastructure\\repositories\\buyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B46D1C1D-08AF-4FE3-B2AC-E982EFECDB51}|StocksAppCleanArchitecture.Infrastructure\\StocksAppCleanArchitecture.Infrastructure.csproj|solutionrelative:stocksappcleanarchitecture.infrastructure\\repositories\\buyorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.core\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|solutionrelative:stocksappcleanarchitecture.core\\dto\\sellorderdto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.core\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|solutionrelative:stocksappcleanarchitecture.core\\dto\\buyorderdto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.core\\services\\stocksservice\\sellorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|solutionrelative:stocksappcleanarchitecture.core\\services\\stocksservice\\sellorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|c:\\users\\paul\\source\\repos\\stocksappcleanarchitecture\\stocksappcleanarchitecture.core\\services\\stocksservice\\buyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570989FE-DD7E-43C9-9EC3-4F816A8A313C}|StocksAppCleanArchitecture.Core\\StocksAppCleanArchitecture.Core.csproj|solutionrelative:stocksappcleanarchitecture.core\\services\\stocksservice\\buyorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StocksAppCleanArchitecture.IntegrationTests",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj",
+              "RelativeToolTip": "StocksAppCleanArchitecture.IntegrationTests\\StocksAppCleanArchitecture.IntegrationTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T07:26:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StocksAppCleanArchitecture.UI",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj",
+              "RelativeToolTip": "StocksAppCleanArchitecture.UI\\StocksAppCleanArchitecture.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T07:23:37.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.IntegrationTests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:22:59.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StocksControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.ControllerTests\\StocksControllerTest.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.ControllerTests\\StocksControllerTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.ControllerTests\\StocksControllerTest.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.ControllerTests\\StocksControllerTest.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:21:56.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StocksTest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecure.ServiceTests\\StocksTest.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecure.ServiceTests\\StocksTest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecure.ServiceTests\\StocksTest.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecure.ServiceTests\\StocksTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:20:05.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\Program.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\Program.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.UI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:08:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinnhubServiceCompanyProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\Services\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Core\\Services\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\Services\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Core\\Services\\FinnhubService\\FinnhubServiceCompanyProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:09:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.UI\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.UI\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:08:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.UI\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.UI\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.UI\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:07:55.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Infrastructure\\Repositories\\SellOrderRepository.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Infrastructure\\Repositories\\SellOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Infrastructure\\Repositories\\SellOrderRepository.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Infrastructure\\Repositories\\SellOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:00:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Infrastructure\\Repositories\\BuyOrderRepository.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Infrastructure\\Repositories\\BuyOrderRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Infrastructure\\Repositories\\BuyOrderRepository.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Infrastructure\\Repositories\\BuyOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:00:45.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinnhubRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Infrastructure\\Repositories\\FinnhubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:59:32.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Core\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Core\\DTO\\SellOrderDTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:57:08.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Core\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Core\\DTO\\BuyOrderDTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:57:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SellOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\Services\\StocksService\\SellOrderService.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Core\\Services\\StocksService\\SellOrderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\Services\\StocksService\\SellOrderService.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Core\\Services\\StocksService\\SellOrderService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:56:47.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuyOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\Services\\StocksService\\BuyOrderService.cs",
+              "RelativeDocumentMoniker": "StocksAppCleanArchitecture.Core\\Services\\StocksService\\BuyOrderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\StocksAppCleanArchitecture\\StocksAppCleanArchitecture.Core\\Services\\StocksService\\BuyOrderService.cs",
+              "RelativeToolTip": "StocksAppCleanArchitecture.Core\\Services\\StocksService\\BuyOrderService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:56:35.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

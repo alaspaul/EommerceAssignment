@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\StocksAppCleanArchitecture.UI.props" />
+</Project>

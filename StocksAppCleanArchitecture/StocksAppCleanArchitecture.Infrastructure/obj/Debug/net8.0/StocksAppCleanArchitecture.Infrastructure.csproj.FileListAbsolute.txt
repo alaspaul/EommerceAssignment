@@ -1,0 +1,15 @@
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\bin\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.deps.json
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\bin\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.dll
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\bin\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.pdb
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.dll
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\refint\StocksAppCleanArchitecture.Infrastructure.dll
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.pdb
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\ref\StocksAppCleanArchitecture.Infrastructure.dll
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAppCleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\bin\Debug\net8.0\StocksAppCleanArchitecture.Core.dll
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\bin\Debug\net8.0\StocksAppCleanArchitecture.Core.pdb
+C:\Users\paul\source\repos\StocksAppCleanArchitecture\StocksAppCleanArchitecture.Infrastructure\obj\Debug\net8.0\StocksAp.B215BF46.Up2Date
