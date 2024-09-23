@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orderitems\\orderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8433283D-260D-4E70-8B7D-D527EBF7F91F}|Repository\\Repositories.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\repository\\orderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8433283D-260D-4E70-8B7D-D527EBF7F91F}|Repository\\Repositories.csproj|solutionrelative:repository\\orderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\orders.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\orders.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\Migrations\\20240923100530_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20240923100530_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8433283D-260D-4E70-8B7D-D527EBF7F91F}|Repository\\Repositories.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8433283D-260D-4E70-8B7D-D527EBF7F91F}|Repository\\Repositories.csproj|solutionrelative:repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orders\\ordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orders\\ordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orders\\ordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orders\\ordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orderitems\\orderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orders\\ordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orders\\ordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orderitems\\orderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\services\\orderitems\\orderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA497B-87B0-4639-8F64-C3C2B00C3338}|Services\\Services.csproj|solutionrelative:services\\orderitems\\orderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orders\\iordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orders\\iordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orders\\iordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orders\\iordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orders\\iordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orders\\iordersfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orderitems\\iorderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsupdaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orderitems\\iorderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsgetterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orderitems\\iorderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsdeleterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\orderitems\\iorderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\orderitems\\iorderitemsadderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BD7DDA-2779-4EA3-BFFB-4D33685BE6FD}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BD7DDA-2779-4EA3-BFFB-4D33685BE6FD}|Entities\\Entities.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\servicecontracts\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59876A0-8050-47AE-B8EB-E1D9AE5BABA4}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\orderitemupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BD7DDA-2779-4EA3-BFFB-4D33685BE6FD}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BD7DDA-2779-4EA3-BFFB-4D33685BE6FD}|Entities\\Entities.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16F1D12-8CE3-4145-920B-0C6EDF76BC1D}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E16F1D12-8CE3-4145-920B-0C6EDF76BC1D}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\repositorycontracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16F1D12-8CE3-4145-920B-0C6EDF76BC1D}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\repositorycontracts\\iorderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16F1D12-8CE3-4145-920B-0C6EDF76BC1D}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iorderitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16F1D12-8CE3-4145-920B-0C6EDF76BC1D}|RepositoryContracts\\RepositoryContracts.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\repositorycontracts\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16F1D12-8CE3-4145-920B-0C6EDF76BC1D}|RepositoryContracts\\RepositoryContracts.csproj|solutionrelative:repositorycontracts\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\orders.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C91F966F-3159-498F-8B18-3818F105DB70}|Orders.WebApi\\Orders.WebApi.csproj|solutionrelative:orders.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57BD7DDA-2779-4EA3-BFFB-4D33685BE6FD}|Entities\\Entities.csproj|c:\\users\\paul\\source\\repos\\orders.solution\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57BD7DDA-2779-4EA3-BFFB-4D33685BE6FD}|Entities\\Entities.csproj|solutionrelative:entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemsAdderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsAdderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsAdderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsAdderService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:30:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItemResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemResponse.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:16:17.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "Orders.WebApi\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "Orders.WebApi\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:56:10.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Repository\\OrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderItemsRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Repository\\OrderItemsRepository.cs",
+              "RelativeToolTip": "Repository\\OrderItemsRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:05:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemAddRequest.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:13:55.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Orders.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Orders.WebApi.http",
+              "RelativeDocumentMoniker": "Orders.WebApi\\Orders.WebApi.http",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Orders.WebApi.http",
+              "RelativeToolTip": "Orders.WebApi\\Orders.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-23T10:06:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersUpdaterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersUpdaterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:47:29.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240923100530_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\Migrations\\20240923100530_Initial.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20240923100530_Initial.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\Migrations\\20240923100530_Initial.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20240923100530_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:05:30.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Orders.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Orders.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T08:49:01.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Orders.WebApi\\Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Orders.WebApi\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:03:03.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Orders.WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Orders.WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:59:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersFilterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersFilterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersFilterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersFilterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersFilterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:41:49.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "Repository\\OrdersRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:59:40.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Orders.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\Program.cs",
+              "RelativeToolTip": "Orders.WebApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:43:04.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersGetterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersGetterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersGetterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersGetterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:43:06.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersAdderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersAdderService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersAdderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersAdderService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:38:11.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItemsGetterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsGetterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsGetterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsGetterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsGetterService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:33:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersDeleterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersDeleterService.cs",
+              "RelativeDocumentMoniker": "Services\\Orders\\OrdersDeleterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\Orders\\OrdersDeleterService.cs",
+              "RelativeToolTip": "Services\\Orders\\OrdersDeleterService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:39:13.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItemsDeleterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsDeleterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:32:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItemsUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "RelativeToolTip": "Services\\OrderItems\\OrderItemsUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:34:48.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrdersUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:27:59.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrdersGetterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:27:28.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrdersAdderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:25:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrdersDeleterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:25:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOrderItemsUpdaterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsUpdaterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:25:08.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IOrdersFilterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "RelativeToolTip": "ServiceContracts\\Orders\\IOrdersFilterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:26:10.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderItemsGetterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsGetterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:24:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderItemsDeleterService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsDeleterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:24:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderItemsAdderService.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "RelativeToolTip": "ServiceContracts\\OrderItems\\IOrderItemsAdderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:23:31.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:21:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderResponse.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:19:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:07:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItemUpdateRequest.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\OrderItemUpdateRequest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:17:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:30:17.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:35:50.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RepositoryContracts",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeDocumentMoniker": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\RepositoryContracts\\RepositoryContracts.csproj",
+              "RelativeToolTip": "RepositoryContracts\\RepositoryContracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T09:00:10.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IOrderItemsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\RepositoryContracts\\IOrderItemsRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IOrderItemsRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\RepositoryContracts\\IOrderItemsRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IOrderItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:58:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\RepositoryContracts\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryContracts\\IOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\RepositoryContracts\\IOrdersRepository.cs",
+              "RelativeToolTip": "RepositoryContracts\\IOrdersRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:55:34.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Orders.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Orders.WebApi\\appsettings.json",
+              "RelativeToolTip": "Orders.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T08:49:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\paul\\source\\repos\\Orders.Solution\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:43:33.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
